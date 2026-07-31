@@ -2,15 +2,8 @@ title:MoT V1
 description:MoT V1
 
 // Pre Astyanax IV ()
-dimwishlist:item=471764396&perks=3824105627
-dimwishlist:item=471764396&perks=4293542123
-dimwishlist:item=471764396&perks=247725512
-
-
-// Pre Astyanax IV ()
-dimwishlist:item=471764396&perks=2890807135
-dimwishlist:item=471764396&perks=3365897133
-dimwishlist:item=471764396&perks=1089671869
+dimwishlist:item=471764396&perks=3824105627,4293542123,247725512
+dimwishlist:item=471764396&perks=2890807135,3365897133,1089671869
 
 
 // A Good Shout ()
